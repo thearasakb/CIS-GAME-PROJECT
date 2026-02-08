@@ -13,5 +13,9 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
-
+.vscode/
+*.sln
+*.slnx
 .DS_Store
+.plastic/
+*.plastic
